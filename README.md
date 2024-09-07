@@ -25,20 +25,20 @@ In this game, you control a snake that moves around the screen, eating food to g
    javac SnakeGame.java
     java SnakeGame
 
-##🎮 Controls
+## 🎮 Controls
 - **Arrow Keys: Move the snake in the desired direction.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **Java: Core programming language used to develop the game.
 
-##💡 Future Enhancements
+## 💡 Future Enhancements
 Some potential features to add in future updates:
 
 - **Ability to restart without rerunning once game is over.
 - **Pause and resume functionality.
 
-##👤 Author
+## 👤 Author
 - ** Hamza
 
 Feel free to check out my other projects or connect with me on [GitHub]([https://](https://github.com/HamzaZ4)).
